@@ -22,53 +22,52 @@ I am an aspiring data scientist with a Master of Science in Statistics, skilled 
 ---
 
 ### ⚙️ Languages & Tools and 📊 GitHub Stats  
-<table>
-  <tr>
-    <td valign="top" width="50%"> <!-- Left Side: Languages & Tools -->
-      <h3 align="center">⚙️ Languages & Tools</h3>
-      <p align="center">
-        <a href="https://www.python.org/" target="_blank">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
-        </a>
-        <a href="https://numpy.org/" target="_blank">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="50" height="50"/>
-        </a>
-        <a href="https://pandas.pydata.org/" target="_blank">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="50" height="50"/>
-        </a>
-        <a href="https://scikit-learn.org/" target="_blank">
-          <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="50" height="50"/>
-        </a>
-        <a href="https://seaborn.pydata.org/" target="_blank">
-          <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="50" height="50"/>
-        </a>
-        <a href="https://www.mysql.com/" target="_blank">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="50" height="50"/>
-        </a>
-        <a href="https://www.postgresql.org/" target="_blank">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="50" height="50"/>
-        </a>
-        <a href="https://powerbi.microsoft.com/" target="_blank">
-          <img src="https://cdn.freelogovectors.net/wp-content/uploads/2023/11/power-bi-logo-freelogovectors.net_.png" alt="Power BI" width="50" height="50"/>
-        </a>
-        <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank">
-          <img src="https://cdn.shopify.com/s/files/1/0090/2125/9831/collections/Microsoft_Office_Excel.png?v=1705563348" alt="Excel" width="50" height="50"/>
-        </a>
-      </p>
-    </td>
 
-    <td valign="top" width="1%" align="center"> <!-- Vertical Partition -->
-      <hr style="border: 1px solid #ccc; height: 100%;"/>
-    </td>
+<div style="display: flex; justify-content: space-between;">
 
-    <td valign="top" width="49%"> <!-- Right Side: GitHub Stats -->
-      <h3 align="center">📊 GitHub Stats</h3>
-      <p align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=K26J&show_icons=true&locale=en&layout=compact&size_weight=0.5" alt="Top Languages" />
-      </p>
-      <p align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=K26J&show_icons=true&locale=en&size_weight=0.5" alt="GitHub Stats" />
-      </p>
-    </td>
-  </tr>
-</table>
+<!-- Left Side: Languages & Tools -->
+<div style="width: 50%; border-right: 2px solid #ccc; padding-right: 20px;">
+  <h3 align="center">⚙️ Languages & Tools</h3>
+  <p align="center">
+    <a href="https://www.python.org/" target="_blank">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
+    </a>
+    <a href="https://numpy.org/" target="_blank">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="50" height="50"/>
+    </a>
+    <a href="https://pandas.pydata.org/" target="_blank">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="50" height="50"/>
+    </a>
+    <a href="https://scikit-learn.org/" target="_blank">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="50" height="50"/>
+    </a>
+    <a href="https://seaborn.pydata.org/" target="_blank">
+      <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="50" height="50"/>
+    </a>
+    <a href="https://www.mysql.com/" target="_blank">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="50" height="50"/>
+    </a>
+    <a href="https://www.postgresql.org/" target="_blank">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="50" height="50"/>
+    </a>
+    <a href="https://powerbi.microsoft.com/" target="_blank">
+      <img src="https://cdn.freelogovectors.net/wp-content/uploads/2023/11/power-bi-logo-freelogovectors.net_.png" alt="Power BI" width="50" height="50"/>
+    </a>
+    <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank">
+      <img src="https://cdn.shopify.com/s/files/1/0090/2125/9831/collections/Microsoft_Office_Excel.png?v=1705563348" alt="Excel" width="50" height="50"/>
+    </a>
+  </p>
+</div>
+
+<!-- Right Side: GitHub Stats -->
+<div style="width: 50%; padding-left: 20px;">
+  <h3 align="center">📊 GitHub Stats</h3>
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=K26J&show_icons=true&locale=en&layout=compact&size_weight=0.5" alt="Top Languages" />
+  </p>
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=K26J&show_icons=true&locale=en&size_weight=0.5" alt="GitHub Stats" />
+  </p>
+</div>
+
+</div>
