@@ -45,7 +45,7 @@ I am an aspiring data scientist with a Master of Science in Statistics, skilled 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="50" height="50"/>
   </a>  
   <a href="https://powerbi.microsoft.com/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Power_BI_logo_black.svg" alt="Power BI" width="50" height="50"/>
+    <img src="https://www.jeveuxetredatascientist.fr/wp-content/uploads/2021/04/power-bi-logo.jpg" alt="Power BI" width="50" height="50"/>
   </a>  
   <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank">
     <img src="https://cdn.shopify.com/s/files/1/0090/2125/9831/collections/Microsoft_Office_Excel.png?v=1705563348" alt="Excel" width="50" height="50"/>
