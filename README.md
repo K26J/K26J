@@ -48,7 +48,7 @@ I am an aspiring data scientist with a Master of Science in Statistics, skilled 
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Power_BI_logo_black.svg" alt="Power BI" width="50" height="50"/>
   </a>  
   <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7f/Microsoft_Excel_2013-2024_logo.svg" alt="Excel" width="50" height="50"/>
+    <img src="https://icons8.com/icons/set/excel" alt="Excel" width="50" height="50"/>
   </a>  
 </p>
 
