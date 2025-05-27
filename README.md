@@ -7,15 +7,10 @@
 
 ---
 
-### 🔥 🚀 About Me  
-🌟 Aspiring data scientist with an **M.Sc. in Statistics**, skilled in **Python, SQL, Power BI, and Advanced Excel**.  
-💡 Expertise in **machine learning, data analytics**, and transforming complex data into actionable insights.  
-🚀 Passionate about **driving innovation** through data-driven solutions.
-
----
-
 ### 🌍 🔗 Connect with me  
 <p align="center">
+  <strong>Click on the icon to connect! 👇</strong>  
+  <br>
   <a href="https://www.linkedin.com/in/keshav-m-joshi/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
   </a>
