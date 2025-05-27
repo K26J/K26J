@@ -68,9 +68,26 @@ Aspiring data scientist with a **M.Sc. in Statistics**, skilled in **Python, SQL
 
 ### 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=K26J&show_icons=true&locale=en&layout=compact&size_weight=0.4" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=K26J&show_icons=true&theme=radical&locale=en&size_weight=0.4" alt="GitHub Stats" />
 </p>
 
+---
+
+### 🏆 GitHub Trophies  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=K26J&show_icons=true&locale=en&size_weight=0.4" alt="GitHub Stats" />
+  <img src="https://github-profile-trophy.vercel.app/?username=K26J&theme=algolia&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+</p>
+
+---
+
+### 🔥 GitHub Streak Stats  
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=K26J&theme=highcontrast" alt="GitHub Streak Stats" />
+</p>
+
+---
+
+### 📈 GitHub Activity Graph  
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=K26J&theme=react-dark&area=true&hide_border=true" alt="GitHub Activity Graph" />
 </p>
