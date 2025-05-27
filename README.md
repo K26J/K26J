@@ -80,14 +80,14 @@ Aspiring data scientist with a **M.Sc. in Statistics**, skilled in **Python, SQL
 
 ---
 
-### 🔥 GitHub Streak Stats  
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=K26J&theme=highcontrast" alt="GitHub Streak Stats" />
-</p>
-
----
-
-### 📈 GitHub Activity Graph  
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=K26J&theme=react-dark&area=true&hide_border=true" alt="GitHub Activity Graph" />
-</p>
+### 🔥 GitHub Streak Stats & 📈 Activity Graph  
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=K26J&theme=highcontrast" alt="GitHub Streak Stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=K26J&theme=react-dark&area=true&hide_border=true" alt="GitHub Activity Graph" />
+    </td>
+  </tr>
+</table>
