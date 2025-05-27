@@ -7,14 +7,46 @@
 
 ---
 
-### 🌍 🔗 Connect with me  
-<p align="center">
-  <strong>Click on the icon to connect! 👇</strong>  
-  <br>
-  <a href="https://www.linkedin.com/in/keshav-m-joshi/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
-  </a>
-</p>
+### 🚀 **About Me**  
+📊 Aspiring **Data Scientist** with a strong foundation in **M.Sc. Statistics**.  
+💡 Skilled in **Python, SQL, Power BI, and Advanced Excel** with expertise in **machine learning & data analytics**.  
+🔍 Passionate about **turning raw data into actionable insights** to drive innovation & smarter decision-making.  
+🚀 Love building predictive models, optimizing algorithms, and exploring AI solutions!  
+
+---
+
+### 📧 **Contact**  
+<table align="center">
+  <tr>
+    <td align="center">
+      <strong>LinkedIn</strong>
+    </td>
+    <td align="center">
+      <strong>Gmail</strong>
+    </td>
+    <td align="center">
+      <strong>Location</strong>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://www.linkedin.com/in/keshav-m-joshi/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" width="40" height="40"/>
+      </a>
+      <br>🔗 <strong>Click to Connect</strong>
+    </td>
+    <td align="center">
+      <a href="mailto:keshavjoshi5467@gmail.com" target="_blank">
+        <img src="https://static.vecteezy.com/system/resources/previews/016/716/465/non_2x/gmail-icon-free-png.png" width="40" height="40"/>
+      </a>
+      <br>📧 <strong>Click to Contact</strong>
+    </td>
+    <td align="center">
+      <img src="https://www.freeiconspng.com/uploads/location-icon-png-14.png" width="40" height="40"/>
+      <br>📍 <strong>Pune, Maharashtra, India</strong>
+    </td>
+  </tr>
+</table>
 
 ---
 
