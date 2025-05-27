@@ -161,5 +161,3 @@
 </table>
 ---
 
-### 🐍 **Contribution Snake Game**
-![snake gif](https://github.com/K26J/K26J/blob/output/github-contribution-grid-snake.svg)
