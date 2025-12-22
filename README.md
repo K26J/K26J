@@ -11,7 +11,7 @@
 
 I am an aspiring Data Scientist with a strong academic background in Statistics (M.Sc.) and practical experience in data analysis, machine learning, and data visualization.
 
-I enjoy working with real-world datasets, performing exploratory data analysis, building predictive models, and extracting insights that support data-driven decision-making. I am particularly interested in feature engineering, model evaluation, and applying statistical concepts to solve practical problems.
+I enjoy working with real-world datasets, performing exploratory data analysis, building predictive models, and extracting insights that support data-driven decision-making. My interests include feature engineering, model evaluation, and applying statistical concepts to solve practical problems.
 
 **Key areas I work on:**
 - Data cleaning, preprocessing, and exploratory data analysis  
@@ -24,13 +24,9 @@ I enjoy working with real-world datasets, performing exploratory data analysis, 
 ## Contact
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/keshav-m-joshi/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" width="40"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:keshavjoshi5467@gmail.com">
-    <img src="https://static.vecteezy.com/system/resources/previews/016/716/465/non_2x/gmail-icon-free-png.png" width="40"/>
-  </a>
+  <a href="https://www.linkedin.com/in/keshav-m-joshi/" target="_blank">LinkedIn</a>
+  &nbsp;&nbsp;|&nbsp;&nbsp;
+  <a href="mailto:keshavjoshi5467@gmail.com">Email</a>
 </p>
 
 <p align="center">
@@ -41,14 +37,37 @@ Pune, Maharashtra, India
 
 ## Skills & Tools
 
-### Programming and Data Analysis
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="45"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="45"/>
-</p>
+| **Programming & ML** | **Data & Visualization** |
+|----------------------|--------------------------|
+| Python               | Pandas                   |
+| NumPy                | Matplotlib               |
+| Scikit-learn         | Seaborn                  |
+| TensorFlow           | Power BI                 |
+| XGBoost              | Tableau                  |
+|                      | Advanced Excel           |
 
-### Data Visualization
-<p>
-  <img src="https://seaborn.pydata.org/_images/logo-mark-_
+| **Databases & Tools** | **Development & Deployment** |
+|-----------------------|------------------------------|
+| MySQL                 | Jupyter Notebook             |
+| PostgreSQL            | Streamlit                    |
+| SQL                   | FastAPI                      |
+|                       | Git                          |
+
+---
+
+## Current Focus
+- Building end-to-end machine learning projects  
+- Improving feature engineering and model performance  
+- Model deployment using Streamlit and FastAPI  
+- Strengthening applied statistics for machine learning  
+
+---
+
+## GitHub Focus
+- Well-structured and documented machine learning projects  
+- Reproducible analysis and clean code practices  
+- Solving practical, industry-relevant problems  
+
+---
+
+Feel free to explore my repositories and connect with me.
