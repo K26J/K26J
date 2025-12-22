@@ -14,14 +14,14 @@ I am an aspiring Data Scientist with a strong academic background in Statistics 
 </p>
 
 <p>
-I enjoy working with real-world datasets, performing exploratory data analysis, building predictive models, and extracting insights that support data-driven decision-making. My interests include feature engineering, model evaluation, and applying statistical concepts to solve practical problems.
+I enjoy working with real-world datasets, performing exploratory data analysis, building predictive models, and extracting insights that support data-driven decision-making. I am particularly interested in feature engineering, model evaluation, and applying statistical concepts to real-world problems.
 </p>
 
 <ul>
   <li>Data cleaning, preprocessing, and exploratory data analysis</li>
-  <li>Supervised and unsupervised machine learning models</li>
-  <li>Statistical analysis and performance evaluation</li>
-  <li>Dashboard creation and insight communication</li>
+  <li>Supervised and unsupervised machine learning</li>
+  <li>Statistical analysis and model evaluation</li>
+  <li>Dashboarding and insight communication</li>
 </ul>
 
 <hr/>
@@ -42,47 +42,45 @@ Pune, Maharashtra, India
 
 <h2>Skills & Tools</h2>
 
-<table width="100%">
+<table width="100%" border="1" cellspacing="0" cellpadding="8">
   <tr>
-    <td width="50%" valign="top">
-
-<strong>Programming & Machine Learning</strong>
-<ul>
-  <li>Python</li>
-  <li>NumPy</li>
-  <li>Scikit-learn</li>
-  <li>TensorFlow</li>
-  <li>XGBoost</li>
-</ul>
-
-<strong>Databases</strong>
-<ul>
-  <li>SQL</li>
-  <li>MySQL</li>
-  <li>PostgreSQL</li>
-</ul>
-
+    <th>Programming</th>
+    <th>Machine Learning</th>
+    <th>Data Analysis</th>
+    <th>Visualization</th>
+    <th>Databases</th>
+    <th>Tools & Deployment</th>
+  </tr>
+  <tr>
+    <td>
+      Python<br/>
+      SQL
     </td>
-    <td width="50%" valign="top">
-
-<strong>Data Analysis & Visualization</strong>
-<ul>
-  <li>Pandas</li>
-  <li>Matplotlib</li>
-  <li>Seaborn</li>
-  <li>Power BI</li>
-  <li>Tableau</li>
-  <li>Advanced Excel</li>
-</ul>
-
-<strong>Tools & Deployment</strong>
-<ul>
-  <li>Jupyter Notebook</li>
-  <li>Streamlit</li>
-  <li>FastAPI</li>
-  <li>Git</li>
-</ul>
-
+    <td>
+      Scikit-learn<br/>
+      TensorFlow<br/>
+      XGBoost
+    </td>
+    <td>
+      Pandas<br/>
+      NumPy<br/>
+      Feature Engineering
+    </td>
+    <td>
+      Matplotlib<br/>
+      Seaborn<br/>
+      Power BI<br/>
+      Tableau
+    </td>
+    <td>
+      MySQL<br/>
+      PostgreSQL
+    </td>
+    <td>
+      Jupyter Notebook<br/>
+      Streamlit<br/>
+      FastAPI<br/>
+      Git
     </td>
   </tr>
 </table>
@@ -94,7 +92,7 @@ Pune, Maharashtra, India
 <ul>
   <li>Building end-to-end machine learning projects</li>
   <li>Improving feature engineering and model performance</li>
-  <li>Model deployment using Streamlit and FastAPI</li>
+  <li>Deploying models using Streamlit and FastAPI</li>
   <li>Strengthening applied statistics for machine learning</li>
 </ul>
 
@@ -103,9 +101,9 @@ Pune, Maharashtra, India
 <h2>GitHub Focus</h2>
 
 <ul>
-  <li>Well-structured and documented machine learning projects</li>
-  <li>Reproducible analysis and clean code practices</li>
-  <li>Solving practical, industry-relevant problems</li>
+  <li>Clean, well-documented machine learning projects</li>
+  <li>Reproducible workflows and readable code</li>
+  <li>Solving practical, industry-oriented problems</li>
 </ul>
 
 <p>
