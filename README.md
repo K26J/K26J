@@ -1,5 +1,5 @@
-<h1 align="center">✨ Hi 👋, I'm <span style="color:#ff9800">Keshav Joshi</span> ✨</h1>
-<h3 align="center" style="color:#4CAF50">Aspiring Data Scientist | M.Sc. Statistics 🚀</h3>
+<h1 align="center"> Hi 👋, I'm <span style="color:#ff9800">Keshav Mahesh Joshi</span> </h1>
+<h3 align="center" style="color:#4CAF50">Aspiring Data Scientist | M.Sc. Statistics </h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=K26J&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
