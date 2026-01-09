@@ -36,22 +36,6 @@ I am a **Data Science fresher** with a strong foundation in **Statistics (M.Sc.)
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<a href="https://github.com/K26J">
-<img src="https://github-readme-stats.vercel.app/api?username=K26J&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="Keshav's Stats" height="160"/>
-</a>
-
-<a href="https://github.com/K26J">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=K26J&layout=compact&theme=radical&hide_border=true&langs_count=6" alt="Top Languages" height="160"/>
-</a>
-
-</div>
-
----
-
 ## 📫 Connect with Me
 
 <div align="center">
